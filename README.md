@@ -1,4 +1,4 @@
-# PostgreSQL 配置文件自动生成器
+# PostgreSQL 配置信息自动生成器
 
 一个用于自动生成 PostgreSQL 优化配置的 Python 脚本，根据服务器硬件规格和工作负载类型生成最佳实践配置。
 
